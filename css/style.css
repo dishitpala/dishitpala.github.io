@@ -275,7 +275,7 @@ li, ul {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #0a0c17;
+	background: url("../img/p-dark.png");
 }
 #particles {
 	position: absolute;
@@ -305,8 +305,8 @@ li, ul {
 	text-align: center;
 }
 .intro-inner .intro-content .profile-img {
-	width: 180px;
-	height: 180px;
+	width: 240px;
+	height: 240px;
 	margin: 0 auto;
 	border-radius: 50%;
 	overflow: hidden;
